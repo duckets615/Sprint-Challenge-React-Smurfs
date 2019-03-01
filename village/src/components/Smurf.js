@@ -15,5 +15,9 @@ Smurf.defaultProps = {
   height: '',
   age: ''
 };
+<<<<<<< HEAD
 //
+=======
+
+>>>>>>> d813fe93517697c1cb6cf4312f749f68c60a8a0f
 export default Smurf;
