@@ -10,7 +10,7 @@ class SmurfForm extends Component {
       height: ""
     };
   }
-
+//
   addSmurf = event => {
     event.preventDefault();
     // add code to create the smurf using the api
