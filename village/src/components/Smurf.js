@@ -15,6 +15,5 @@ Smurf.defaultProps = {
   height: '',
   age: ''
 };
-
-export default Smurf;
 //
+export default Smurf;
