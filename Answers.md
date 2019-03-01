@@ -5,7 +5,7 @@
       - HTTP stand for hyper text transfer protocol
 
 3.  What does CRUD stand for?
-      - CRUD stands for create, read, update and delete. They are the four basic methods of HTTP operations.
+      - CRUD stands for create, read, update and delete. They are the four basic methods of HTTP      operations.
 
 4.  Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
       - There are four HTTP methods that can be mapped to the CRUD acronym.
@@ -15,7 +15,7 @@
         - DELETE - remove data from server/databse
 
 5.  Mention three tools we can use to make AJAX requests
-      -Three tools available to us to make an AJAX request are
+      - Three tools available to us to make an AJAX request are
       - Fetch - kicks off a async AJAX request
       - Axios - a promise based HTTP requests;
       - jQuery - a user friendly jS library;
